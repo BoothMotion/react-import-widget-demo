@@ -1,7 +1,7 @@
 # React Demo
 
-[Partner site and Documentation](https://partners.boothmotion.com/)
-[React Demo](https://partners.boothmotion.com/react-demo/)
+- [Video demos and documentation](https://partners.boothmotion.com/)
+- [React demo](https://partners.boothmotion.com/react-demo/)
 
 ## Introduction
 
