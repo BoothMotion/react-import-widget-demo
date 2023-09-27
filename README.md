@@ -2,6 +2,7 @@
 
 - [Video demos and documentation](https://partners.boothmotion.com/)
 - [React demo](https://partners.boothmotion.com/react-demo/)
+- [Vanilla example repo](https://github.com/BoothMotion/vanilla-import-widget-demo)
 
 ## Introduction
 
