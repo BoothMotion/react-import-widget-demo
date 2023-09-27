@@ -7,7 +7,7 @@
 
 This widget enables customers to smoothly transfer their BoothMotion products into your app. Crafted for easy integration, it provides multiple integration approaches based on your app's architecture.
 
-Below you can find demos and example code for each of the import strategies in vanilla JS and React.
+Below you can find demos and example code for each of the import strategies in React.
 
 If you have any questions, please reach out to hello@boothmotion.com
 
